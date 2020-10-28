@@ -22,6 +22,9 @@
 		"last 2 versions",
 		"> 0.25%"
 	],
+	"scripts": {
+		"watch": "gulp watch"
+	},
 	"devDependencies": {
 		"node-sass": "4.13.0",
 		"gulp": "4.0.2",

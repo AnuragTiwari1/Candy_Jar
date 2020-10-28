@@ -1,0 +1,17 @@
+.avatar {
+  border-radius: 50%;
+}
+
+.header-search {
+  width: 274px;
+  transition: ease-in 0.3s;
+
+  &:focus-within {
+    width: 574px;
+  }
+}
+
+.user-details-container {
+  margin-top: -32px;
+  background-color: transparent;
+}
